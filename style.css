@@ -5,6 +5,10 @@ body{
 .topnav {
    margin-left: 60%;
    margin-top: 4%;
+   
+ }
+ .main{
+     background-color: rgb(238, 235, 229);
  }
  
  .topnav a {
@@ -219,7 +223,7 @@ width: 13%;
 }
 .secondpage{
     
-    background-color: white;
+    background-color: rgb(238, 235, 229);
     width: 90%;
     margin-left: 5%;
     margin-top:  -60px;;
@@ -398,7 +402,7 @@ width: 13%;
 
 
 .box{
-    background-color: #FFFFFF;
+    background-color: #f7f2f2;
     width: 90%;
     margin-left: 5%;
     margin-top: 2%;
@@ -420,7 +424,7 @@ width: 13%;
 
 .lastpage{
     display: flex;
-    background-color:ffffff;
+    background-color:rgb(238, 235, 229);
     width: 90%;
     margin-left: 5%;
     margin-top: 2%;
@@ -428,6 +432,7 @@ width: 13%;
 .lastpagewords{
     margin-top: 3%;
     margin-left: 7%;
+    background-color: rgb(238, 235, 229);
 }
 .lastpageimg{
    background-image: url(/Images/color_dots-removebg-preview.png);
