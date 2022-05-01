@@ -52,7 +52,7 @@ color: aqua;
  }
  .image{
      margin-right: 10%;
-     margin-top: -2%;
+     margin-top: -9%;
      background-size: 60%;
      background-repeat: no-repeat;
      background-position: 80%; 
@@ -60,6 +60,7 @@ color: aqua;
 .logo{
      margin-top: 4%;
 }
+
 /* .icons{
     margin-top: -200%;
     
@@ -164,9 +165,9 @@ width: 13%;
 }
 #done{
   
-    border-radius: 40%;
+    border-radius: 30%;
     height: 4%;
-    margin-left: 10%;
+    margin-left: 12%;
 }
 
 
@@ -462,3 +463,25 @@ width: 13%;
     margin-top: -2%;
     color: rgb(0, 136, 255);
 }
+.page2{
+    display: flex;
+    margin-left: 4%;
+    padding: 5%;
+    margin-top: -6%;
+    
+    }
+    .Design{
+    background-color:rgb(245,249,250);
+    font-size: 120%;
+    padding: 5%;
+    }
+    .develop{
+    background-color: rgb(67,161,145);
+    padding: 5%;
+    font-size:120% ;
+    }
+    .market{
+    background-color: rgb(234,246,254);
+    padding: 5%;
+    font-size: 120%;
+    }    
